@@ -1,0 +1,70 @@
+{
+  "Corn_Corn___Common_Rust": {
+    "remedy": "Apply fungicides such as azoxystrobin or pyraclostrobin. Rotate crops and remove infected debris.",
+    "prevention": "Plant resistant corn varieties and ensure proper field sanitation."
+  },
+  "Corn_Corn___Gray_Leaf_Spot": {
+    "remedy": "Use fungicides like strobilurins or triazoles when symptoms first appear.",
+    "prevention": "Avoid continuous corn planting, use crop rotation, and select resistant hybrids."
+  },
+  "Corn_Corn___Healthy": {
+    "remedy": "No treatment needed.",
+    "prevention": "Maintain good soil fertility and irrigation practices."
+  },
+  "Corn_Corn___Northern_Leaf_Blight": {
+    "remedy": "Apply fungicides such as mancozeb or copper oxychloride.",
+    "prevention": "Plant resistant varieties and practice crop rotation."
+  },
+  "Potato_Potato___Early_Blight": {
+    "remedy": "Use fungicides like chlorothalonil or mancozeb.",
+    "prevention": "Remove infected leaves and avoid overhead irrigation."
+  },
+  "Potato_Potato___Healthy": {
+    "remedy": "No treatment needed.",
+    "prevention": "Maintain proper soil and water management."
+  },
+  "Potato_Potato___Late_Blight": {
+    "remedy": "Apply systemic fungicides such as metalaxyl.",
+    "prevention": "Plant certified disease-free tubers and destroy volunteer potatoes."
+  },
+  "Rice_Rice___Brown_Spot": {
+    "remedy": "Apply fungicides like carbendazim or tricyclazole.",
+    "prevention": "Maintain balanced soil nutrients and proper spacing."
+  },
+  "Rice_Rice___Healthy": {
+    "remedy": "No treatment needed.",
+    "prevention": "Ensure good water and nutrient management."
+  },
+  "Rice_Rice___Leaf_Blast": {
+    "remedy": "Apply tricyclazole or isoprothiolane fungicides.",
+    "prevention": "Avoid excessive nitrogen use and use resistant varieties."
+  },
+  "Rice_Rice___Neck_Blast": {
+    "remedy": "Spray fungicides at the booting stage (e.g., tricyclazole).",
+    "prevention": "Grow resistant varieties and balance fertilizer use."
+  },
+  "sugarcane_Bacterial Blight": {
+    "remedy": "Apply copper-based bactericides.",
+    "prevention": "Plant resistant varieties and avoid waterlogging."
+  },
+  "sugarcane_Healthy": {
+    "remedy": "No treatment needed.",
+    "prevention": "Maintain proper irrigation and soil health."
+  },
+  "sugarcane_Red Rot": {
+    "remedy": "Rogue diseased clumps and treat soil with lime.",
+    "prevention": "Use resistant varieties and avoid ratooning in infected fields."
+  },
+  "Wheat_Wheat___Brown_Rust": {
+    "remedy": "Spray fungicides like propiconazole or tebuconazole.",
+    "prevention": "Plant resistant varieties and rotate crops."
+  },
+  "Wheat_Wheat___Healthy": {
+    "remedy": "No treatment needed.",
+    "prevention": "Maintain good field hygiene and proper fertilization."
+  },
+  "Wheat_Wheat___Yellow_Rust": {
+    "remedy": "Use fungicides such as triadimefon or propiconazole.",
+    "prevention": "Plant resistant wheat varieties and avoid early sowing."
+  }
+}
