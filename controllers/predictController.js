@@ -65,14 +65,16 @@ exports.getPrediction = async (req, res) => {
     };
 
     // 5. Save prediction (with suggestion text)
-    const newPrediction = await Prediction.create({
-      image_id: imageId,
-      user_id: req.user.id,    
-      disease,
-      confidence,
-      explanation: crop,
-      suggestions: JSON.stringify(suggestion),
-    });
+const newPrediction = await Prediction.create({
+  image_id: imageId,
+  user_id: req.user.id,
+  crop,                          
+  disease,
+  confidence,
+  explanation: "Predicted by ML API", 
+  suggestions: suggestion,       
+});
+
 
     // 6. Response
     res.status(200).json({
