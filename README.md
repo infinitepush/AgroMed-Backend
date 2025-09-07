@@ -19,7 +19,7 @@
 
 <ul>
   <li><b>Node.js + Express.js</b> — Backend framework</li>
-  <li><b>PostgreSQL + Sequelize ORM</b> — Database</li>
+  <li><b>SQLIte</b> — Database</li>
   <li><b>Cloudinary</b> — Image storage</li>
   <li><b>Axios</b> — ML API calls</li>
   <li><b>JWT</b> — Authentication</li>
@@ -31,7 +31,7 @@
 <h2>📂 Project Structure</h2>
 
 <pre>
-crop-disease-backend/
+AgroMed-Backend/
 ├── .vscode/                  # Editor settings
 ├── config/                   # Database & app config
 ├── controllers/              # Route handlers
@@ -54,13 +54,10 @@ crop-disease-backend/
 ├── .env                      # Environment variables
 ├── .gitignore
 ├── data.json                 # Crop disease remedies & prevention
-├── dockerfile                # Docker support
 ├── index.js                  # App entry point
 ├── package.json
 ├── package-lock.json
-├── render.yaml               # Render deployment config
-├── schema.sql                # Database schema
-└── suggestions.json          # Additional remedies/preventions
+└── data.json          # Additional remedies/preventions
 </pre>
 
 ---
@@ -70,7 +67,7 @@ crop-disease-backend/
 <ol>
   <li>Clone the repository:</li>
 
-  <pre><code>git clone https://github.com/infinitepush/crop-disease-backend.git
+  <pre><code>git clone https://github.com/infinitepush/AgroMed-Backend
 cd crop-disease-backend</code></pre>
 
   <li>Install dependencies:</li>
