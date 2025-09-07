@@ -53,7 +53,6 @@ AgroMed-Backend/
 │   └── feedback.js
 ├── .env                      # Environment variables
 ├── .gitignore
-├── data.json                 # Crop disease remedies & prevention
 ├── index.js                  # App entry point
 ├── package.json
 ├── package-lock.json
