@@ -120,7 +120,7 @@ CLOUDINARY_API_SECRET=your_api_secret</code></pre>
   <li>Image URL sent to <b>ML API</b> (<code>/predict/url</code>)</li>
   <li>ML API returns <code>{ crop, disease, confidence }</code></li>
   <li>Backend adds <b>remedies & prevention</b> from <code>data.json</code></li>
-  <li>Result saved in <b>PostgreSQL</b> & returned to frontend</li>
+  <li>Result saved in <b>SQLite</b> & returned to frontend</li>
 </ol>
 
 ---
