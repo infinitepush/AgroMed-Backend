@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI-powered crop disease detection system</b><br>
-  Backend service built with Node.js, Express, PostgreSQL, and Cloudinary 🚀
+  Backend service built with Node.js, Express, SQLite, and Cloudinary 🚀
 </p>
 
 <p align="center">
